@@ -5,7 +5,7 @@ Sales Analysis Dashboard 📊
 
 This project analyzes sales and profit performance using Microsoft Excel. The interactive dashboard helps users explore sales across different product categories and regions.
 
-*Tools Used*
+##Tools Used
 
 Microsoft Excel
 
